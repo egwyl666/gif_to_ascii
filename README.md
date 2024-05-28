@@ -1,12 +1,20 @@
-# gif_to_ascii
-GIF to ASCII
-For Win and Unix:
+# GIF to ASCII Converter
+This tool converts animated GIFs to ASCII art. It is compatible with both Windows and Unix systems.
 
-To start:
+## Installation
+Install the required packages by running:
+
+```bash
 pip install -r requirements.txt
-or
+
+Or, install Pillow directly:
 pip install Pillow
 
-![FROM GIF:](https://imgur.com/bMdLvZz.gif)
+## Examples
+Below are examples showing the conversion from a GIF to ASCII art.
 
-![To ASCII:](https://imgur.com/DyJN3lv.gif)
+### Original GIF
+![Original GIF](https://i.imgur.com/bMdLvZz.gif)
+
+### Converted to ASCII
+![ASCII Art](https://i.imgur.com/DyJN3lv.gif)
