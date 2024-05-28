@@ -7,7 +7,10 @@ Install the required packages by running:
 ```bash
 pip install -r requirements.txt
 
+
 Or, install Pillow directly:
+
+
 pip install Pillow
 
 ## Examples
