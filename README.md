@@ -9,4 +9,4 @@ pip install Pillow
 
 ![FROM GIF:](https://imgur.com/bMdLvZz.gif)
 
-![To ASCII:](https://imgur.com/T9groZl.mp4)
+![To ASCII:](https://imgur.com/DyJN3lv.gif)
