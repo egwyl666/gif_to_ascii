@@ -6,13 +6,13 @@ Install the required packages by running:
 
 ```bash
 pip install -r requirements.txt
+```
+___
 
-
-Or, install Pillow directly:
-
-
+## **Or, install Pillow directly:**
+```bash
 pip install Pillow
-
+```
 ## Examples
 Below are examples showing the conversion from a GIF to ASCII art.
 
@@ -20,4 +20,4 @@ Below are examples showing the conversion from a GIF to ASCII art.
 ![Original GIF](https://i.imgur.com/bMdLvZz.gif)
 
 ### Converted to ASCII
-![ASCII Art](https://i.imgur.com/DyJN3lv.gif)
+![ASCII Art](https://imgur.com/DyJN3lv.gif)
