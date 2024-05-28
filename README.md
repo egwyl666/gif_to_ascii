@@ -20,4 +20,4 @@ Below are examples showing the conversion from a GIF to ASCII art.
 ![Original GIF](https://i.imgur.com/bMdLvZz.gif)
 
 ### Converted to ASCII
-![ASCII Art](https://imgur.com/DyJN3lv.gif)
+![ASCII Art](https://i.imgur.com/ybID996.gif)
